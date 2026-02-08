@@ -52,3 +52,6 @@ This repository is part of my journey to strengthen my React fundamentals 🚀
 - CSS3
 
 ---
+
+👩‍💻 Author: Rukhsar Bano
+📌 BCA (Cloud Security) | Frontend & React Learner
