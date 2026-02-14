@@ -13,7 +13,7 @@ export default function Lottery({n=3, winningSum=15}) {
     return(
         <div>
             <h1>Lottery Game!</h1>
-            <Ticket/>
+            <Ticket ticket={ticket}/>
             <br></br>
             <button onClick={buyTicket}>Buy New Ticket</button>
             <h3>{isWinning && "Congratulations, you won!"}</h3>
