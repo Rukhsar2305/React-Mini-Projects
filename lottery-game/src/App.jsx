@@ -1,12 +1,11 @@
 import './App.css'
 import Lottery from './Lottery'
-import TicketNum from "./TicketNum";
 
 function App() {
 
   return (
     <>
-    <TicketNum num={5}/>
+    <Lottery n={3} winningSum={15}/>
     </>
   )
 }
