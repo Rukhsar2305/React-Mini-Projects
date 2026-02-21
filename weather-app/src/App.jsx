@@ -1,4 +1,4 @@
-import "./App.css"
+// import "./App.css"
 import WeatherApp from "./WeatherApp";
 
 function App() {
@@ -6,7 +6,6 @@ function App() {
   return (
     <> 
       <WeatherApp/>
-      <InfoBox/>
     </>
   )
 }
