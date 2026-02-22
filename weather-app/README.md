@@ -1,43 +1,39 @@
-🌦️ Weather App
+## 🌦️ Weather App
 
 A dynamic weather application that fetches real-time weather data using an external API.
 
-This project demonstrates API integration and dynamic UI updates based on user input.
+This project demonstrates API integration and dynamic UI updates based on user input. It simulates a real-world frontend application that consumes third-party APIs and updates the UI dynamically based on user interaction.
 
-🚀 Features
+---
 
-Search weather by city name
+### 🚀 Features
 
-Displays temperature, humidity, and weather conditions
+- Search weather by city name  
+- Displays temperature, humidity, and weather conditions  
+- Real-time data fetching  
+- Error handling for invalid city names  
+- Responsive UI  
 
-Real-time data fetching
+---
 
-Error handling for invalid city names
+### 🧠 Concepts Practiced
 
-Responsive UI
+- Fetching data from REST APIs  
+- Handling asynchronous operations  
+- Managing state with `useState`  
+- Conditional rendering  
+- Event handling  
+- Working with environment variables (API keys)  
 
-🧠 Concepts Practiced
+---
 
-Fetching data from REST APIs
+### 🛠️ Tech Stack
 
-Handling asynchronous operations
+- React (Vite)  
+- OpenWeather API  
+- JavaScript (ES6+)  
+- CSS3  
 
-Managing state with useState
+---
 
-Conditional rendering
-
-Event handling
-
-Working with environment variables (API keys)
-
-🛠️ Tech Stack
-
-React (Vite)
-
-OpenWeather API
-
-JavaScript (ES6+)
-
-CSS3
-
-📁 Folder: weather-app
+📁 Folder: `weather-app`
